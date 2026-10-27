@@ -11,5 +11,3 @@ I'm learning software development, with a particular interest in compiler techno
 ## Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cockgosl&layout=normal&langs_count=6&theme=dark&card_width=400)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=cockgosl&theme=dark)
